@@ -32,19 +32,19 @@
 - [FE course](https://github.com/dudnikgg/fe-course-bro)
   - Kind of a course for new frontend developers from scratch,
   roadmap and materials for learning + some of projects that were build during the course by me and my students
-- [Kit]() - it is private for now
+- [Kit]()
     - A WordPress website
-- [KitWPTheme]() - it is private for now
+- [KitWPTheme]()
     - A custom theme for a "Kit" WordPress website.
-- [KitBlocks]() - it is private for now
+- [KitBlocks]()
     - A collection of custom gutenberg blocks for a "Kit" WordPress website.
-- [Valerian]() - it is private for now
+- [Valerian]()
     - A WordPress website
-- [ValerianTheme]() - it is private for now
+- [ValerianTheme]()
     - A custom theme for a "Valerian" WordPress website. Built using Gutenberg blocks
-- [ValerianBlocks]() - it is private for now
+- [ValerianBlocks]()
     - A collection of custom gutenberg blocks for a "Valerian" WordPress website.
-- [ValerianAuth]() - it is private for now
+- [ValerianAuth]()
     - A WordPress custom plugin that handles user registration/authorithation/authentication for a "Valerian" WordPress website.
 - [dudnikgg-kit]() - it is private for now
     - A place where I keep all my personal projects and experiments built using Vue3, Vite, TypeScript, etc.
