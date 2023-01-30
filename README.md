@@ -12,6 +12,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat-square&logo=hubspot)
 ![Vue](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
 
 ### Things I'm using
