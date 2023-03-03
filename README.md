@@ -2,7 +2,7 @@
 <img src="./cv-photo.jpg" width="50%"/>
 
 - 💻 I'm a **Frontend Developer** with 5+ years of experience
-- 📚 I'm currently learning **Vue3** and **TypeScript**
+- 📚 I'm currently learning **Vue3** and **Nodejs** and **Hubspot**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dudnikgg/)
 - My passion are ⚽️ 🏂 👨‍💻 🎮 🎸
 
