@@ -25,7 +25,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite)
 ![Vitest](https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=Vitest)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=vscode)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![SMACSS](https://img.shields.io/badge/-SMACSS-black?style=flat-square&logo=SMACSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
