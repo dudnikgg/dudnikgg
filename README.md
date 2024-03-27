@@ -15,7 +15,7 @@
 ![Vue3](https://img.shields.io/badge/-Vue3-black?style=flat-square&logo=Vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Vitest](https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=Vitest)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
