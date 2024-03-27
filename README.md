@@ -3,7 +3,7 @@
 <img src="./cv-photo.jpg" width="50%"/>
 
 - 💻 I'm a **Frontend Developer** with 5+ years of experience
-- 📚 I'm currently learning **Nuxt**, **Vue3**, **TypeScript**
+- 📚 I'm currently learning **Nuxt3**, **Vue3**, **TypeScript**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dudnikgg/)
 - My passion are ⚽️ 🏂 👨‍💻 🎮 🎸
 - My hobby is smart home automation 🏠
@@ -15,7 +15,7 @@
 ![Vue3](https://img.shields.io/badge/-Vue3-black?style=flat-square&logo=Vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Vitest](https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=Vitest)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-black?&logo=tailwindcss)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
