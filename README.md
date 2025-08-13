@@ -14,7 +14,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Laravel](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=Laravel)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Vitest](https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=Vitest)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
